@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Augusto Batista 😁
+# Bem-vindo(a) ao perfil do Augusto Batista 😁
 
  <div>
    <a href="https://github.com/augustodbatista">
@@ -20,7 +20,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra conteúdo sobre programação me segue nas redes abaixo!
  
 <div> 
   <a href="https://instagram.com/oaugustobatista_"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
