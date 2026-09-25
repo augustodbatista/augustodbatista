@@ -10,6 +10,7 @@ Python.
 |---|---|---|
 | [finance-platform](https://github.com/augustodbatista/finance-platform) | Personal finance tracker where logging an expense takes one line of text, with credit card statements and installments modeled correctly | Go, zero dependencies |
 | [water-tracker](https://github.com/augustodbatista/water-tracker) | One-click desktop widget for daily water intake, with CI on Windows and Linux | Java 21, Swing |
+| [comparador-precos](https://github.com/augustodbatista/comparador-precos) | Scans Brazilian receipt QR codes and compares product prices across stores over time — [live demo](https://comparador-precos-xi.vercel.app) | Python, FastAPI, MongoDB, React, TypeScript |
 
 ## Tech I work with
 
